@@ -1,0 +1,3 @@
+TCP 127.0.0.1 444
+MQTT 91.121.93.94 1883 Messages Acknowledgment
+HTTP 41.38.102.53 35617
